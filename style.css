@@ -1,12 +1,37 @@
-em strong{
+em strong {
   color: red;
 }
+
 #banner {
   width: 100%;
 }
-body{
-  background-color: #cccccc;
+
+.principal {
+  background: #CCCCCC;
+  padding: 30px;
 }
+
+.beneficios{
+background-color: #FFFFFF;
+  padding: 20px;
+  }
+
+h2{
+  text-align: center;
+}
+
+ul{
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%; 
+}
+
+
 .item{
-  font-style: italic;
-}
+      font-style: italic;
+    }
+
+.image-beneficio{
+      width: 50%;
+    }
