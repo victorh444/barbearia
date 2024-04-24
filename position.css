@@ -1,0 +1,25 @@
+.pai {
+  background-color: blue;
+  height: 100px;
+}
+
+.um {
+  background-color: red;
+  width: 90%;
+  margin-left: 10px;
+  position: absolut;
+  top: 30px;
+  left: 30px;
+}
+
+.dois {
+  background-color: yellow;
+  width: 90%;
+  margin-left: 10px;
+}
+
+.tres {
+  background-color: green;
+  width: 90%;
+  margin-left: 10px;
+}
